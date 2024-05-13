@@ -1,0 +1,44 @@
+[
+	{
+		"uuid": "ef89091e-ce10-11ed-afa1-0242ac120002",
+		"url": "https://www.runczech.com/en/events/prague-half-marathon-2023/information-for-runners",
+		"title": "Prague half marathon info",
+		"description": "",
+		"tags": "prague"
+	},
+	{
+		"uuid": "745ff24c-ce11-11ed-afa1-0242ac120002",
+		"url": "https://translate.google.com/?sl=en&tl=cs&op=translate",
+		"title": "Translate English-to-Czech",
+		"description": "",
+		"tags": "prague"
+	},
+	{
+		"uuid": "87980ce6-ce11-11ed-afa1-0242ac120002",
+		"url": "https://translate.google.com/?sl=cs&tl=en&op=translate",
+		"title": "Translate Czech-to-English",
+		"description": "",
+		"tags": "prague"
+	},
+	{
+		"uuid": "e57dfedc-ce1c-11ed-afa1-0242ac120002",
+		"url": "https://ontheworldmap.com/czech-republic/city/prague/prague-metro-tram-map.jpg",
+		"title": "Prague public transportation map (Airbnb is near Anděl)",
+		"description": "",
+		"tags": "prague"
+	},
+	{
+		"uuid": "8041147c-ce22-11ed-afa1-0242ac120002",
+		"url": "https://www.runczech.com/en/events/sportisimo-prague-half-marathon-2020/races/sportisimo-prague-half-marathon",
+		"title": "Prague Half Marathon Route",
+		"description": "",
+		"tags": "prague"
+	},
+	{
+		"uuid": "53957218-ce29-11ed-afa1-0242ac120002",
+		"url": "https://tanguay.info/run/kmz/Prague-2023.kmz",
+		"title": "Prague 2023 KMZ file",
+		"description": "",
+		"tags": "prague"
+	}
+]

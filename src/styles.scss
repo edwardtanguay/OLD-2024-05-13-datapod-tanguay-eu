@@ -1,0 +1,30 @@
+body {
+	background-color: #333;
+	padding: 0 1rem;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 1.4rem;
+	color: #ccc;
+
+	li {
+		color: #aaa;
+		font-size: 1.3rem;
+
+		a {
+			color: rgb(201, 201, 116);
+		}
+	}
+
+	p {
+		color: #ccc;
+		font-size: 1.3rem;
+	}
+
+	b {
+		color: rgb(197, 154, 74);
+	}
+
+	a {
+		color: rgb(230, 173, 68);
+		text-decoration: none;
+	}
+}

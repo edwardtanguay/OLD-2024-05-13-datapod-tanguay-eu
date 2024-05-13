@@ -1,0 +1,101 @@
+[
+	{
+		"idCode": "berlinHbfTief",
+		"title": "Berlin Hbf",
+		"description": "EC 171, Wg. 259, Pl. 73,74",
+		"start": "2023-03-31 07:16:00",
+		"end": "",
+		"place": "Gleis 1 tief",
+		"tags": "prague"
+	},
+	{
+		"idCode": "halfMarathonStart",
+		"title": "Half Marathon Start",
+		"description": "official start is 10:00",
+		"start": "2023-04-01 09:30:00",
+		"end": "",
+		"place": "janPalachSquare",
+		"tags": "prague"
+	},
+	{
+		"idCode": "checkInToAirbnb",
+		"title": "Check into Airbnb",
+		"description": "",
+		"start": "2023-03-31 14:00:00",
+		"end": "",
+		"place": "pragueAirbnb",
+		"tags": "prague"
+	},
+	{
+		"idCode": "vivaldiConcert",
+		"title": "Vivaldi Concert: Four Seasons",
+		"description": "starts at 19:00, arrive 20 minutes beforehand",
+		"start": "2023-04-01 18:30:00",
+		"end": "",
+		"place": "stClementCathedral",
+		"tags": "prague"
+	},
+	{
+		"idCode": "arrivePrague",
+		"title": "Arrive in Prague",
+		"description": "",
+		"start": "2023-03-31 11:35:00",
+		"end": "",
+		"place": "pragueTrainStation",
+		"tags": "prague"
+	},
+	{
+		"idCode": "pickUpNumbersPrague",
+		"title": "Pick up numbers",
+		"description": "Fri 10-20, Sat 7-8, take tram number 17 for 20 minutes in the direction of the Výstaviště Holešovice (end station: Vozovna Kobylisy, NOT: Levského), or take the red line C in the direction of Ládví and get off at the Nádraží Holešovice station (10 min)",
+		"start": "2023-03-31 12:00:00",
+		"end": "",
+		"place": "runningExpoPrague",
+		"tags": "prague"
+	},
+	{
+		"idCode": "pragueDiscoveryRun",
+		"title": "Prague discovery run",
+		"description": "24K run around Prague",
+		"start": "2023-04-03 06:30:00",
+		"end": "",
+		"place": "",
+		"tags": "prague"
+	},
+	{
+		"idCode": "entdeckePrague",
+		"title": "Prague tour with Ivitsa",
+		"description": "2.5 hours, 12-14:30, Charles bridge and its statues, Statue of Charles IV with the Gothic tower, The old Royal route, Bethlehem chapel, Johanes Kepler’s house, Mozart house, Colloredo palace, History of Czechoslovakia.  Stops that are part of the New town: National Museum, King Wenceslaus statue, The Franciscan garden and the Church of Our Lady of Snow, Lucerna palace. And in between we will see the best Czech modern art ; )",
+		"start": "2023-04-02 12:00:00",
+		"end": "",
+		"place": "nationalMuseum",
+		"tags": "prague"
+	},
+	{
+		"idCode": "leavePrague",
+		"title": "Leave Prague",
+		"description": "",
+		"start": "2023-04-04 12:25:00",
+		"end": "",
+		"place": "pragueTrainStation",
+		"tags": "prague"
+	},
+	{
+		"idCode": "arriveInBerlin",
+		"title": "Berlin Hbf",
+		"description": "",
+		"start": "2023-04-04 16:44:00",
+		"end": "",
+		"place": "",
+		"tags": "prague"
+	},
+	{
+		"idCode": "sunriseRun",
+		"title": "Sunrise Run with Adam",
+		"description": "Pohořelce, Strahov monastery, Hunger wall, Petřín park, little Eiffel Tower, Funicular, Rose garden, National theatre, Malá strana, Prague Castle and great views. Alltogether with spoken history lesson from me, born and raised right here in the neighbourhood.",
+		"start": "2023-04-02 07:00:00",
+		"end": "",
+		"place": "sunriseRunMeetupPoint",
+		"tags": "prague"
+	}
+]

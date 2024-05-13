@@ -1,0 +1,15 @@
+[
+	{
+		"idCode": "bohumilKubista",
+		"name": "Bohumil Kubišta",
+		"born": 1884,
+		"died": 1918,
+		"description": "Czech painter and art critic, one of the founders of Czech modern painting. Kubišta was influenced by the work of Vincent van Gogh and Paul Cézanne, educating himself in philosophy and optics, and studied colour and the geometrical construction of painting. His later style after 1911 was strongly influenced by Cubism and his Expressionist elements, particularly his use of color immediately distinguished Kubišta's Cubist work from that of the Paris Cubists Picasso and Braque. Kubišta joined the army in 1913 and died during the global 1918 flu pandemic which ravaged Europe during and after the First World War.",
+		"tags": "prague"
+	},
+	{
+		"idCode": "medeaBenjamin",
+		"name": "Medea Benjamin",
+		"description": "Ukranian war protester"
+	}
+]

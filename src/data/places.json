@@ -1,0 +1,83 @@
+[
+	{
+		"idCode": "riegrovySady",
+		"title": "Riegrovy sady",
+		"description": "",
+		"tags": "prague",
+		"latitude": 50.0795056,
+		"longitude": 14.4419083
+	},
+	{
+		"idCode": "museumDesTschechischenKubismus",
+		"title": "Museum des Tschechischen Kubismus",
+		"description": "",
+		"tags": "prague",
+		"latitude": 50.0869111,
+		"longitude": 14.4256056,
+		"extraInfo": "nnn"
+	},
+	{
+		"idCode": "janPalachSquare",
+		"title": "Jan Palach Square",
+		"description": "It commemorates Jan Palach, a student who immolated himself on 16 January 1969 to protest against the Soviet occupation of Czechoslovakia.",
+		"tags": "prague",
+		"latitude": 50.0891139,
+		"longitude": 14.4151528
+	},
+	{
+		"idCode": "stClementCathedral",
+		"title": "St. Clement Cathedral",
+		"description": "Built for the Jesuits in the Clementinum area[4] between 1711 and 1715",
+		"tags": "prague",
+		"latitude": 50.0861500,
+		"longitude": 14.4157333
+	},
+	{
+		"idCode": "pragueTrainStation",
+		"title": "Prague train station",
+		"description": "opened in 1871 as Franz Josef Station, after Franz Joseph I of Austria",
+		"tags": "prague",
+		"latitude": 50.0832417,
+		"longitude": 14.4350194
+	},
+	{
+		"idCode": "pragueAirbnb",
+		"title": "Airbnb",
+		"description": "checkin 14:00, checkout 11:00",
+		"tags": "prague",
+		"latitude": 50.0723500,
+		"longitude": 14.4079111
+	},
+	{
+		"idCode": "kafkaMuseum",
+		"title": "Kafka Museum",
+		"description": "open daily 10-18",
+		"tags": "prague",
+		"latitude": 50.0883222,
+		"longitude": 14.4101500
+	},
+	{
+		"idCode": "runningExpoPrague",
+		"title": "Running Expo",
+		"description": "Fri 10-20, Sat 7-8",
+		"tags": "prague",
+		"latitude": 50.1070583,
+		"longitude": 14.4315417
+	},
+	{
+		"idCode": "sunriseRunMeetupPoint",
+		"title": "Pohořelec",
+		"description": "get to the location by trams 22 and 25",
+		"tags": "prague",
+		"latitude": 50.0876306,
+		"longitude": 14.3885944
+	},
+	{
+		"idCode": "nationalMuseum",
+		"title": "National Museum",
+		"description": "founded 1818, science/historyo, open 10-18 daily",
+		"tags": "prague",
+		"latitude": 50.0791222,
+		"longitude": 14.4301222
+	}
+]
